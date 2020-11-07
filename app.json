@@ -1,0 +1,23 @@
+{
+  "name": "SSR2HeroKu",
+  "description": "Deploy SSRoT to Heroku.",
+  "keywords": ["node","js","Docker"],
+  "env": {
+	"APP_SITE": {
+      "description": "App 站点名称，格式如下示范值。",
+      "value": "yourappname.herokuapp.com"
+    },
+    "PASSWORD": {
+      "description": "ssr password",
+      "value": "c63a520e-5f34-3121-fde4-009b4042bf5b"
+    },
+
+    "SECRET_PATH": {
+      "description": "随意修改下面的路径，字母组合，长短任意",
+      "value": "ssrpath"
+    }
+  },
+  "website": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "repository": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "stack": "container"
+}
