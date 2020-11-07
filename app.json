@@ -17,7 +17,7 @@
       "value": "ssrpath"
     }
   },
-  "website": "https://github.com/VerSign010/ssr-heroku",
-  "repository": "https://github.com/VerSign010/ssr-heroku",
+  "website": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "repository": "https://github.com/ShadowsocksR-Live/ssr2heroku",
   "stack": "container"
 }
