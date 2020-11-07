@@ -1,9 +1,9 @@
 {
-  "name": "SSR2HeroKu",
+  "name": "SSR-HeroKu",
   "description": "Deploy SSRoT to Heroku.",
   "keywords": ["node","js","Docker"],
   "env": {
-	"APP_SITE": {
+    "APP_SITE": {
       "description": "App 站点名称，格式如下示范值。",
       "value": "yourappname.herokuapp.com"
     },
@@ -17,7 +17,7 @@
       "value": "ssrpath"
     }
   },
-  "website": "https://github.com/ShadowsocksR-Live/ssr2heroku",
-  "repository": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "website": "https://github.com/VerSign010/ssr-heroku",
+  "repository": "https://github.com/VerSign010/ssr-heroku",
   "stack": "container"
 }
