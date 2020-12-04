@@ -24,12 +24,11 @@ cat > /ssrbin/config.json <<EOF
         "listen_port": 1080
     },
 
-    "over_tls_settings": {
+    "websocket": {
         "enable": true,
         "server_domain": "${APP_SITE}",
         "path": "/${SECRET_PATH}/",
-        "root_cert_file": ""
-    }
+     }
 }
 EOF
 
