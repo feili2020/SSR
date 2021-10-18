@@ -6,7 +6,7 @@
 
 在 https://heroku.com 网站上注册账号，登录，准备就绪后，点击这个 `Deploy to Heroku` 按钮链接。
 
-[![](https://user-images.githubusercontent.com/30760636/96996783-0da82100-1563-11eb-9af1-3ecd0a83420b.png)](https://heroku.com/deploy?template=https://github.com/feili2020/ssr2heroku/tree/main)
+[![](https://user-images.githubusercontent.com/30760636/96996783-0da82100-1563-11eb-9af1-3ecd0a83420b.png)](https://heroku.com/deploy?template=https://github.com/ShadowsocksR-Live/ssr2heroku/tree/main)
 
 在随后出现的页面上按提示输入 `应用名称`,以及 `${APP_SITE}`, `${PASSWORD}`, `${SECRET_PATH}` 这三个变量的值，再点击下部的 `Deploy app` 按钮就将 SSRoT 服务端最新版本部署在 heroku 的 docker 容器上了。
 
@@ -16,7 +16,7 @@
 
 ## 客户端下载地址
 
-https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%94%A8%E6%B3%95
+https://github.com/feili2020/shadowsocksr-native/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%94%A8%E6%B3%95
 
 ## 客户端配置文件 config.json
 
