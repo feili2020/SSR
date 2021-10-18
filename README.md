@@ -16,7 +16,7 @@
 
 ## 客户端下载地址
 
-https://github.com/feili2020/shadowsocksr-native/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%94%A8%E6%B3%95
+https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%94%A8%E6%B3%95
 
 ## 客户端配置文件 config.json
 
